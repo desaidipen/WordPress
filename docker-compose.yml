@@ -1,6 +1,6 @@
 #simple wordpress app running in mysql
 
-version: '3.3'
+version: '2.0'
 
 services:
    db:
